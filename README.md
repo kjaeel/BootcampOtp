@@ -12,4 +12,4 @@ things done -
 to run the app
 
 1. after cloning perform npm install
-2. npx react0native run-android
+2. npx react-native run-android
